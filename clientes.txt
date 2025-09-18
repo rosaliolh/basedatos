@@ -1,5 +1,0 @@
-ID,Nombre,Edad,Ciudad
-1,Juan,25,México
-2,Ana,30,Guadalajara
-3,Luis,28,Monterrey
-4,Rosalio,10,irapuato
